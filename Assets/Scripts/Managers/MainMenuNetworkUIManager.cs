@@ -18,5 +18,5 @@ public class MainMenuNetworkUIManager : MonoBehaviour
             NetworkManager.Singleton.StartClient();
         }));
 
-}
+    }
 }
